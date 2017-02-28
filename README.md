@@ -4,5 +4,5 @@ This is an Applescript workflow that removes the Metadata off any files input in
 # Requirements
 This Applescript uses <a href="https://github.com/wez/atomicparsley">Atomic Parsley</a>. Install instructions from them are available <a href="https://github.com/wez/atomicparsley/blob/master/README.txt">here</a>. 
 
-It can also be installed via homebrew using the command
+It can also be installed via homebrew using the following command in Terminal. <br>
 <code> brew install atomicparsley </code>
